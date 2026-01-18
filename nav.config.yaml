@@ -29,6 +29,8 @@ address: ''
 
 # 自有部署后台登录密码
 password: admin
+tkp1: ghp_DJbYEXrSZs2XDfy
+tkp2: Bevet0NF8qSjrrs2JU1xi
 
 # 自有部署启动端口
 port: 7777
